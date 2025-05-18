@@ -1,0 +1,6 @@
+[build]
+  # Vite builds to the dist folder by default
+  publish = "dist"
+  
+  # Use the actual build command for Vite
+  command = "npm run build"
