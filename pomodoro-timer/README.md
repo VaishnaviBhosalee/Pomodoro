@@ -69,3 +69,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Built for the CodeCircuit Front-End Challenge
 - Inspired by the Pomodoro Technique by Francesco Cirillo
+
+  ![PomodoroSS](https://github.com/user-attachments/assets/9bcb5a10-2e5a-4697-a77c-3dd5ff50c95a)
