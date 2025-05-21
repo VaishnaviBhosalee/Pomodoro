@@ -2,7 +2,7 @@
 
 A clean, minimal Pomodoro Timer app built with React and Vite.
 <br/>
-Link : [Link](https://pomodorowebapptimer.netlify.app/)
+Link : [Pomodoro Timer](https://pomodorowebapptimer.netlify.app/)
 
 ## Features
 
