@@ -21,6 +21,12 @@ Link : [Pomodoro Timer](https://pomodorowebapptimer.netlify.app/)
   - Reset button
   - Automatic mode switching
   - Audio notification when timer completes
+ 
+- **Focus Enhancements**
+  - Curated Lo-Fi Playlist
+    * Built-in Spotify integration with calming lo-fi/chill music to help you concentrate
+  - Motivational Quotes
+    * Inspiring quotes displayed each session to keep you motivated and on track
 
 ## Getting Started
 
